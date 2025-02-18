@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @icrackfofun
-- I am a Software Developer using Mainly Django and React
+- I am a Software Developer using Mainly Django and React, with a Background in Data Science and Machine Learning 
 - You can reach me through my email: miguelred2009@gmail.com
 <!---
 icrackfofun/icrackfofun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
