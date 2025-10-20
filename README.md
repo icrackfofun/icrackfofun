@@ -6,16 +6,19 @@
 - Ranging from Server Communication to Image Rendering and 
 - You can reach me through my email: miguelred2009@gmail.com
 
-## My Stack 
-### Languages
-- **C**, **C++**, **C#**
-- **Python** 
-- **Java**, **JavaScript / TypeScript**  
+## Languages & Tools
 
-### Frameworks & Libraries
-- **Express**
-- **Angular**
-- **Django**
+### Languages
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ## Projects
 - [Minishell](link) – Implementation of Bash Shell in C, Including Command Piping and Execution, Redirection and Signal Handling
