@@ -8,12 +8,9 @@
 
 ## My Stack 
 ### Languages
-- **C**
-- **C++**
-- **C#**
+- **C**, **C++**, **C#**
 - **Python** 
-- **Java**
-- **JavaScript / TypeScript**  
+- **Java**, **JavaScript / TypeScript**  
 
 ### Frameworks & Libraries
 - **Express**
