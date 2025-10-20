@@ -1,4 +1,4 @@
-## Intro 
+## About Me 
 - Hello, My name is Pedro Borrega
 - I am a Software Developer with a Background in Data Science and Machine Learning
 - My Areas of Interest are Web Development, AI/ML and Cybersecurity
@@ -21,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## Projects
+## Highlight Projects
 - [Minishell](https://github.com/icrackfofun/minishell) – Implementation of Bash Shell in C, Supporting Command Piping and Execution, Redirection and Signal Handling
 
 - [Philosophers](https://github.com/icrackfofun/philosophers) – Implementation of the Dining Philosophers Problem in C, Featuring Thread Synchronization, Mutex Management, and Deadlock Prevention
