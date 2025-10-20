@@ -24,6 +24,7 @@
 ## Projects
 - [Minishell](https://github.com/icrackfofun/minishell) – Implementation of Bash Shell in C, Supporting Command Piping and Execution, Redirection and Signal Handling
 
-- [Philosophers](link) – Message passing with signals
+- [Philosophers](https://github.com/icrackfofun/philosophers) – Implementation of the Dining Philosophers Problem in C, Featuring Thread Synchronization, Mutex Management, and Deadlock Prevention
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icrackfofun&layout=compact&theme=transparent)
