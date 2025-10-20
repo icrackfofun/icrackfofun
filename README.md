@@ -5,7 +5,7 @@
 - Here you can also find projects from my time at 42 Lisbon, Mostly Written in C and C++ 
 - You can reach me through my email: miguelred2009@gmail.com
 
-## Languages & Tools
+## My Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
