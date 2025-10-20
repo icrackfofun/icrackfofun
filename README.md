@@ -22,7 +22,7 @@
 
 
 ## Projects
-- [Minishell]([link](https://github.com/icrackfofun/minishell)) – Implementation of Bash Shell in C, Supporting Command Piping and Execution, Redirection and Signal Handling
+- [Minishell](https://github.com/icrackfofun/minishell) – Implementation of Bash Shell in C, Supporting Command Piping and Execution, Redirection and Signal Handling
 
 - [Philosophers](link) – Message passing with signals
 
