@@ -25,4 +25,4 @@
 - [FDF](link) – 3D wireframe renderer with MiniLibX
 - [Minitalk](link) – Message passing with signals
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icrackfofun&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icrackfofun&layout=compact&theme=transparent)
